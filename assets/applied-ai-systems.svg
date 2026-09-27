@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
 <title id="title">Vignesh Kumar Karthikeyan — Applied AI Systems</title>
-<desc id="desc">A colorful visual map showing signals flowing through data and machine learning, agentic systems, and measurable operational impact.</desc>
+<desc id="desc">A colorful four-stage map from signals to intelligence, orchestration, and impact.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07142d"/><stop offset=".52" stop-color="#15114a"/><stop offset="1" stop-color="#0d2d45"/></linearGradient>
-  <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".48" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07142d"/><stop offset=".48" stop-color="#17144c"/><stop offset="1" stop-color="#0a3142"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".34" stop-color="#60a5fa"/><stop offset=".67" stop-color="#c084fc"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="420" rx="28" fill="url(#bg)"/>
-<g opacity=".25" stroke="#7dd3fc"><path d="M0 80H1200M0 170H1200M0 260H1200M0 350H1200"/><path d="M130 0V420M330 0V420M530 0V420M730 0V420M930 0V420M1130 0V420"/></g>
-<text x="70" y="82" font-family="Arial, sans-serif" font-size="20" fill="#67e8f9" letter-spacing="4">VIGNESH KUMAR KARTHIKEYAN</text>
-<text x="70" y="126" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#f8fafc">Applied AI Systems Builder</text>
-<text x="70" y="158" font-family="Arial, sans-serif" font-size="18" fill="#cbd5e1">Turning complex operations into data products, AI agents, and measurable outcomes.</text>
-<path d="M185 292 C300 210, 370 340, 490 270 S690 212, 810 280 S1010 345, 1110 245" fill="none" stroke="url(#flow)" stroke-width="6" filter="url(#glow)"/>
+<rect width="1200" height="380" rx="28" fill="url(#bg)"/>
+<g opacity=".17" stroke="#93c5fd"><path d="M0 68H1200M0 136H1200M0 204H1200M0 272H1200M0 340H1200"/><path d="M120 0V380M300 0V380M480 0V380M660 0V380M840 0V380M1020 0V380"/></g>
+<text x="62" y="65" font-family="Arial, sans-serif" font-size="17" fill="#67e8f9" letter-spacing="3.5">VIGNESH KUMAR KARTHIKEYAN</text>
+<text x="62" y="108" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#f8fafc">Applied AI Systems Builder</text>
+<text x="62" y="138" font-family="Arial, sans-serif" font-size="16" fill="#cbd5e1">Complex operations → data products → reliable AI → measurable outcomes</text>
+<path d="M190 228H1010" stroke="url(#line)" stroke-width="7" stroke-linecap="round" filter="url(#glow)"/>
 <g font-family="Arial, sans-serif">
-  <g transform="translate(75 238)"><circle cx="70" cy="52" r="48" fill="#083c57" stroke="#22d3ee" stroke-width="3"/><text x="70" y="48" text-anchor="middle" font-size="28">◌</text><text x="70" y="112" text-anchor="middle" fill="#e0f2fe" font-size="17" font-weight="700">SIGNALS</text><text x="70" y="135" text-anchor="middle" fill="#94a3b8" font-size="13">data • context</text></g>
-  <g transform="translate(330 238)"><circle cx="70" cy="52" r="48" fill="#302064" stroke="#a78bfa" stroke-width="3"/><text x="70" y="49" text-anchor="middle" font-size="27">⌁</text><text x="70" y="112" text-anchor="middle" fill="#ede9fe" font-size="17" font-weight="700">INTELLIGENCE</text><text x="70" y="135" text-anchor="middle" fill="#c4b5fd" font-size="13">ML • RAG • LLMs</text></g>
-  <g transform="translate(585 238)"><circle cx="70" cy="52" r="48" fill="#5a1f55" stroke="#f472b6" stroke-width="3"/><text x="70" y="50" text-anchor="middle" font-size="27">✦</text><text x="70" y="112" text-anchor="middle" fill="#fce7f3" font-size="17" font-weight="700">ORCHESTRATION</text><text x="70" y="135" text-anchor="middle" fill="#f9a8d4" font-size="13">agents • tools</text></g>
-  <g transform="translate(900 238)"><circle cx="70" cy="52" r="48" fill="#14532d" stroke="#4ade80" stroke-width="3"/><text x="70" y="50" text-anchor="middle" font-size="27">↗</text><text x="70" y="112" text-anchor="middle" fill="#dcfce7" font-size="17" font-weight="700">IMPACT</text><text x="70" y="135" text-anchor="middle" fill="#86efac" font-size="13">decisions • scale</text></g>
+  <g transform="translate(60 186)"><rect width="230" height="132" rx="20" fill="#0b3b56" stroke="#22d3ee" stroke-width="2.5"/><circle cx="32" cy="32" r="14" fill="#22d3ee"/><text x="32" y="37" text-anchor="middle" font-size="16" fill="#082f49">1</text><text x="24" y="77" font-size="19" font-weight="700" fill="#e0f2fe">SIGNALS</text><text x="24" y="103" font-size="14" fill="#bae6fd">Data · context · questions</text></g>
+  <g transform="translate(340 186)"><rect width="230" height="132" rx="20" fill="#24205f" stroke="#818cf8" stroke-width="2.5"/><circle cx="32" cy="32" r="14" fill="#818cf8"/><text x="32" y="37" text-anchor="middle" font-size="16" fill="#1e1b4b">2</text><text x="24" y="77" font-size="19" font-weight="700" fill="#ede9fe">INTELLIGENCE</text><text x="24" y="103" font-size="14" fill="#c4b5fd">ML · RAG · LLMs</text></g>
+  <g transform="translate(620 186)"><rect width="230" height="132" rx="20" fill="#5b215c" stroke="#f472b6" stroke-width="2.5"/><circle cx="32" cy="32" r="14" fill="#f472b6"/><text x="32" y="37" text-anchor="middle" font-size="16" fill="#500724">3</text><text x="24" y="77" font-size="19" font-weight="700" fill="#fce7f3">ORCHESTRATION</text><text x="24" y="103" font-size="14" fill="#f9a8d4">Agents · tools · workflows</text></g>
+  <g transform="translate(900 186)"><rect width="230" height="132" rx="20" fill="#164a38" stroke="#4ade80" stroke-width="2.5"/><circle cx="32" cy="32" r="14" fill="#4ade80"/><text x="32" y="37" text-anchor="middle" font-size="16" fill="#052e16">4</text><text x="24" y="77" font-size="19" font-weight="700" fill="#dcfce7">IMPACT</text><text x="24" y="103" font-size="14" fill="#bbf7d0">Decisions · scale · adoption</text></g>
 </g>
 </svg>
