@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ivky03/ivky03/main/assets/applied-ai-systems-v2.svg" alt="Vignesh Kumar Karthikeyan — Applied AI Systems" width="100%" />
+  <img src="https://raw.githubusercontent.com/ivky03/ivky03/main/assets/applied-ai-systems-motion.svg" alt="Vignesh Kumar Karthikeyan — Applied AI Systems" width="100%" />
 </p>
 
 <p align="center">
