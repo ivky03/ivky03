@@ -8,7 +8,7 @@
 
 ## Building AI that earns its place in the workflow
 
-I’m **Vignesh**, an applied AI professional with an M.S. in Computer Science (AI) from the University of Colorado Boulder. I work at the intersection of **data, GenAI systems, and process strategy**—taking an ambiguous operational problem from discovery through a usable technical solution.
+I’m **Vignesh**, an applied AI professional with an M.S. in Computer Science (AI) from the University of Colorado Boulder. I turn ambiguous operational challenges into data products, AI workflows, and measurable outcomes.
 
 <table>
 <tr>
@@ -32,11 +32,6 @@ I’m **Vignesh**, an applied AI professional with an M.S. in Computer Science (
 
 `Data & ML` → `Agentic AI` → `Decision-ready products`
 
-I’m especially interested in AI Engineering, Data Science, AI Solutions Architecture, and forward-deployed work—where strong technical systems meet real people, constraints, and measurable impact.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivky03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="Vignesh's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ivky03&hide_border=true&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=a78bfa&sideLabels=cbd5e1&dates=94a3b8" alt="Vignesh's GitHub streak" height="165" />
-</p>
+I’m interested in AI Engineering, Data Science, AI Solutions Architecture, and forward-deployed work—where strong technical systems meet real people, constraints, and measurable impact.
 
 <p align="center"><sub>From raw signals to reliable decisions.</sub></p>
