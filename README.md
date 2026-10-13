@@ -22,11 +22,15 @@ I’m **Vignesh**, an applied AI professional with an M.S. in Computer Science (
 
 | System | What it demonstrates |
 |---|---|
-| [PermitPulse AI](https://github.com/ivky03/permitpulse-ai) | Time-aware ML, comparable-case retrieval, LangGraph workflow, and human approval across 945K NYC filings. |
-| [ReelRights AI](https://github.com/ivky03/reelrights-ai) | Explainable film-market intelligence built on 21K+ box-office records. |
+| [PermitPulse AI](https://github.com/ivky03/permitpulse-ai) | Evidence-backed permit-risk planning across ~946K NYC filings: temporal ML, comparable retrieval, LangGraph approval, and read-only MCP. |
+| [ReelRights AI](https://github.com/ivky03/reelrights-ai) | Explainable film-market decision support: CatBoost forecasting, calibrated uncertainty, time-safe comparables, and deterministic valuation. |
+| [SetReady AI](https://github.com/ivky03/setready-ai) | Agentic production-risk planning that combines web evidence, Gemini, PDF extraction, constraint validation, and human approval. |
+| [PSCo Grid Analytics](https://github.com/ivky03/psco-grid-analytics) | Production-minded energy-demand analysis: chunked ingestion of 3.8M public records, SQLite/SQL checks, forecasting, tests, and a Streamlit dashboard. |
 | [AI Financial Chatbot](https://github.com/ivky03/AI-financial-chatbot) | Conversational financial research with Gemini, RAG, FastAPI, Next.js, and vector search. |
-| [LeakageLens MCP](https://github.com/ivky03/LeakageLens-MCP) | A practical MCP project for catching ML leakage before it becomes false confidence. |
-| [Wind Power Forecasting](https://github.com/ivky03/Wind-Power-Forecasting-using-Ensemble-Learning) | Transformer + LSTM + GBDT ensemble for renewable-energy forecasting. |
+| [ResumeGPT](https://github.com/ivky03/ai-resume-analyzer) | Resume parsing, embedding-based job matching, Gemini feedback, and personalized skill-gap coaching with FastAPI and Streamlit. |
+| [LeakageLens MCP](https://github.com/ivky03/LeakageLens-MCP) | A practical MCP project for detecting ML leakage before it becomes false confidence. |
+| [LLM Execution Optimizer](https://github.com/ivky03/LLM-Execution-optimizer-EdgeAI) | Edge-oriented LLM benchmarking across PyTorch, ONNX Runtime, and dynamic quantization for latency and memory trade-offs. |
+| [Wind Power Forecasting](https://github.com/ivky03/Wind-Power-Forecasting-using-Ensemble-Learning) | Transformer + LSTM + gradient-boosting ensemble for renewable-energy forecasting. |
 
 ## Current direction
 
